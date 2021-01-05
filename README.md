@@ -6,4 +6,4 @@ File Description:
 1. Growth Model Scatterplot.ipynb --- A Jupyter Notebook python code of creating the scatterplot
 2. scatterplot.xlsx --- Data for scatterplot (for data security purpose, these numbers are random generated)
 3. GMS_Python.png --- A screenshot of the output of python code
-4. GMS_Tableau.png --- A screenshot of the output of Tableau dashboard
+4. GMS_Tableau.png --- A screenshot of the output of Tableau dashboard (Data and output might be different from Python, but it's the same idea)
